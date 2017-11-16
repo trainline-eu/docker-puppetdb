@@ -1,5 +1,9 @@
 # docker-puppetdb
 
+[![Docker Automated](https://img.shields.io/docker/automated/trainlineeurope/puppetdb.svg)](https://hub.docker.com/trainlineeurope/puppetdb)
+[![Docker Pulls](https://img.shields.io/docker/pulls/trainlineeurope/puppetdb.svg)](https://hub.docker.com/trainlineeurope/puppetdb)
+[![Travis Build](https://img.shields.io/travis/trainline-eu/docker-puppetdb/master.svg)](https://travis-ci.org/trainline-eu/docker-puppetdb)
+
 This repo contains the `Docker` image definition for `puppetdb`.
 
 ## Usage
